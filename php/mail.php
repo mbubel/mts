@@ -6,8 +6,8 @@ $mess = $_POST['con_message'];
 
 
 
-$to = 'expjoomworker@gmail.com';
-$subject = 'Agency User Query';
+$to = 'michaelbubel.1989@gmail.com';
+$subject = 'Mountain Technology Services User Query';
 
 $message = '<strong>Name : </strong>'.$name.'<br/><br/>';
 $message .= $mess.'<br/>';

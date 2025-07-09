@@ -41,9 +41,9 @@
 2. Raleway [ Use for all Paragraph ]
 2. Crimson Text [ Use for all Special text ]
 
-Main Color: #8e44ad
+Main Color: #E07A5F
 Preset Colors:
-    1. #8e44ad
+    1. #E07A5F
     2. #2BA0C7
     6. #C0392B
     4. #F2CA27
@@ -64,7 +64,7 @@ body, html{
     line-height: 26px;
 }
 a{
-    color: #8e44ad;
+    color: #E07A5F;
     transition: all ease 500ms;
     -moz-transition: all ease 500ms;
     -webkit-transition: all ease 500ms;
@@ -152,9 +152,9 @@ a.comm_btn:hover span {
   width: 562.5px;
 }
 .apBtnDefault{
-    border: 2px solid #8e44ad;
+    border: 2px solid #E07A5F;
     border-radius: 22px;
-    color: #8e44ad;
+    color: #E07A5F;
     display: inline-block;
     font-size: 13px;
     font-weight: 700;
@@ -174,7 +174,7 @@ a.comm_btn:hover span {
 }
 
 .apBtnDefault span{
-    background: #8e44ad none repeat scroll 0 0;
+    background: #E07A5F none repeat scroll 0 0;
     border-radius: 50%;
     display: block;
     height: 0;
@@ -232,7 +232,7 @@ a.apBtnDefault:hover span {
     margin-left: 5px;
 }
 .comonLInk:hover{
-    color: #8e44ad;
+    color: #E07A5F;
     text-decoration: none;
 }
 
@@ -290,7 +290,7 @@ a.apBtnDefault:hover span {
     margin: 0;
 }
 .stBar:after{
-    background-color: #8e44ad;
+    background-color: #E07A5F;
     height: 1px;
     width: 30px;
     position: absolute;
@@ -301,7 +301,7 @@ a.apBtnDefault:hover span {
     content: "";
 }
 .stBar:before{
-    background-color: #8e44ad;
+    background-color: #E07A5F;
     height: 1px;
     width: 30px;
     position: absolute;
@@ -315,7 +315,7 @@ a.apBtnDefault:hover span {
     width: 10px;
     height: 10px;
     display: inline-block;
-    background: #8e44ad;
+    background: #E07A5F;
     transform: rotate(45deg);
     -moz-transform: rotate(45deg);
     -webkit-transform: rotate(45deg);
@@ -359,7 +359,7 @@ ul.ulitem li{
     content: "\f1b8";
     font-family: FontAwesome;
     font-size: 14px;
-    color: #8e44ad;
+    color: #E07A5F;
     position: absolute;
     left: 0;
 }

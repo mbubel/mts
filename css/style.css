@@ -41,9 +41,9 @@
 2. Raleway [ Use for all Paragraph ]
 2. Crimson Text [ Use for all Special text ]
 
-Main Color: #8e44ad
+Main Color: #E07A5F
 Preset Colors:
-    1. #8e44ad
+    1. #E07A5F
     2. #2BA0C7
     6. #C0392B
     4. #F2CA27
@@ -73,10 +73,13 @@ Preset Colors:
     top: 0;
 }
 .logo{
-    width: 100%;
+    width: 25%;
     position: relative;
     text-align: left;
     padding: 12px 0;
+}
+.col-sm-9 {
+    padding-top: 10px;
 }
 .logo a img{
     max-width: 100%;
@@ -137,7 +140,7 @@ Preset Colors:
 }
 .mainMenu ul li:hover:after, .mainMenu ul li.active:after, 
 .mainMenu ul li:hover:before, .mainMenu ul li.active:before{
-    background: #8e44ad;
+    background: #E07A5F
 }
 .mainMenu ul li:last-child{
     margin-right: 0px;
@@ -157,7 +160,7 @@ Preset Colors:
     font-weight: 400;
 }
 .mainMenu ul li a:hover, .mainMenu ul li.active a{
-    color: #8e44ad;
+    color: #E07A5F;
 }
 
 
@@ -172,7 +175,6 @@ Preset Colors:
     min-height: 70px;
     z-index: 999;
     background: none;
-    border-bottom: 1px solid rgba(0, 0, 0, .1);
 }
 .commonHeader.blacky{
     border-bottom: 1px solid rgba(255, 255, 255, .2);
@@ -204,10 +206,10 @@ Preset Colors:
 }
 .commonHeader .mainMenu ul li:hover:after, .commonHeader .mainMenu ul li:hover:before, 
 .commonHeader .mainMenu ul li.active:after, .commonHeader .mainMenu ul li.active:before{
-    background: #8e44ad;
+    background: #E07A5F;
 }
 .commonHeader .mainMenu ul li a:hover, .commonHeader .mainMenu ul li.active a{
-    color: #8e44ad;
+    color: #E07A5F;
 }
 
 
@@ -481,7 +483,7 @@ Preset Colors:
 .bannerSix{
     width: 100%;
     position: relative;
-    background: url(../images/bg/bg17.jpg) no-repeat center center / cover;
+    background: url(../images/bg/IdyMountain.jpg) no-repeat center center / cover;
     overflow: hidden;
 }
 .b1desc6{
@@ -621,8 +623,8 @@ Preset Colors:
     opacity: .6;
 }
 .b1desc7 a#playVideo:hover{
-    border-color: #8e44ad;
-    color: #8e44ad;
+    border-color: #E07A5F;
+    color: #E07A5F;
 }
 .vide_con{
     width: 100%;
@@ -794,11 +796,11 @@ Preset Colors:
 .carouselBanner .carousel-control.left:hover:after, 
 .carouselBanner .carousel-control.right:hover:after 
 {
-    background: #8e44ad;
+    background: #E07A5F;
 }
 .carouselBanner .carousel-control.left:hover:before, 
 .carouselBanner .carousel-control.right:hover:before{
-    border-color: #8e44ad;
+    border-color: #E07A5F;
 }
 .carouselBanner .carousel-inner, .carouselBanner .item{
     height: 100%;
@@ -842,7 +844,7 @@ Preset Colors:
 .singleFeature2 h5 i{
     border-radius: 50%;
     bottom: 0;
-    color: #8e44ad;
+    color: #E07A5F;
     font-size: 29px;
     height: 30px;
     margin: auto 0;
@@ -933,7 +935,7 @@ Preset Colors:
     margin-top: 0px;
 }
 .textbox > i{
-    color: #8e44ad;
+    color: #E07A5F;
     display: inline-block;
     font-size: 40px;
     height: 40px;
@@ -1018,7 +1020,7 @@ Preset Colors:
     padding: 0;
 }
 .myAccordion .panel-title > a{
-    background: #8e44ad none repeat scroll 0 0;
+    background: #E07A5F none repeat scroll 0 0;
     color: #fff;
     display: block;
     font-size: 12px;
@@ -1099,7 +1101,7 @@ Preset Colors:
     width: 10px;
 }
 .myAccourdio2 .panel-title > a.collapsed span{
-    border-color: #8e44ad;
+    border-color: #E07A5F;
 }
 .myAccordion .panel-title > a.collapsed span:before{
     display: none;
@@ -1115,7 +1117,7 @@ Preset Colors:
     border-radius: 0;
 }
 .myAccordion .collapse.in{
-    border-bottom: 1px solid #8e44ad;
+    border-bottom: 1px solid #E07A5F;
 }
 .myAccordion .panel-default > .panel-heading + .panel-collapse > .panel-body {
     border: medium none;
@@ -1176,7 +1178,7 @@ Preset Colors:
     margin: 0 auto;
 }
 .skillBar2{
-    background: #8e44ad;
+    background: #E07A5F;
     height: 100%;
     position: absolute;
     top: 0;
@@ -1261,7 +1263,7 @@ Preset Colors:
     background: #F4F4F4;
 }
 .featureBox .featureBox_back{
-    background: #8e44ad;
+    background: #A64F3A;
     padding: 50px 30px;
 }
 .featureBox .featureBox_back:after{
@@ -1283,7 +1285,7 @@ Preset Colors:
     padding: 105px 30px;
 }
 .featureBox .featureBox_front:after{
-    color: #8e44ad;
+    color: #A64F3A;
     content: attr(data-counta);
     font-family: Montserrat;
     font-size: 150px;
@@ -1312,7 +1314,7 @@ Preset Colors:
 }
 .featureBox i{
     border-radius: 50%;
-    color: #8e44ad;
+    color: #A64F3A;
     display: inline-block;
     font-size: 50px;
     height: 50px;
@@ -1513,7 +1515,7 @@ Preset Colors:
     text-align: center;
 }
 .singleFacts i{
-    color: #8e44ad;
+    color: #E07A5F;
     display: inline-block;
     font-size: 50px;
     height: 50px;
@@ -1542,12 +1544,30 @@ Preset Colors:
     position: relative;
     background: #f4f4f4;
     text-align: center;
+    min-height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
+
+#generalPricing {
+    min-height: 300px;
+}
+
 .pricingHead{
-    background: #8e44ad none repeat scroll 0 0;
+    /* background: #E76F51 none repeat scroll 0 0; */
     border-radius: 10px 10px 0 0;
     padding: 64px 0 120px;
     position: relative;
+}
+.card1 {
+    background-color: #647AA3;
+}
+.card2 {
+    background-color: #E07A5F;
+}
+.card3 {
+    background-color: #8D4F5A;
 }
 .priceCurrency {
     color: #fff;
@@ -1679,7 +1699,7 @@ svg:not(:root) {
     -o-transition: all ease 500ms;
 }
 .vidContent a:hover, .vidContent a.active{
-    color: #8e44ad;
+    color: #E07A5F;
 }
 #videoWrap1 {
     position: relative;
@@ -1697,7 +1717,7 @@ svg:not(:root) {
 }
 
 .downloadButton{
-    background: #8e44ad;
+    background: #E07A5F;
     width: 100%;
     text-align: center;
     line-height: .8;
@@ -1749,7 +1769,7 @@ svg:not(:root) {
     display: inline-block;
 }
 .downloadButton:hover{
-    background: #8e44ad;
+    background: #E07A5F;
 }
 
 .subscribeForm{
@@ -1799,8 +1819,8 @@ svg:not(:root) {
     -o-transition: all ease 500ms;
 }
 .sub_submit:hover{
-    color: #8e44ad;
-    border-color: #8e44ad;
+    color: #E07A5F;
+    border-color: #E07A5F;
 }
 .subscribeForm p{
     font-family: Crimson Text;
@@ -1811,6 +1831,9 @@ svg:not(:root) {
 }
 
 
+.contactCopy {
+    padding-bottom: 10px;
+}
 
 .contactSection{
     width: 100%;
@@ -1878,8 +1901,8 @@ svg:not(:root) {
     padding: 0 25px;
 }
 .con_submit:hover{
-    color: #8e44ad;
-    border-color: #8e44ad;
+    color: #E07A5F;
+    border-color: #E07A5F;
 }
 
 .conInfo{
@@ -1890,7 +1913,7 @@ svg:not(:root) {
 }
 .conInfo i{
     font-size: 32px;
-    color: #8e44ad;
+    color: #E07A5F;
     height: 32px;
     margin-bottom: 29px;
     display: block;
@@ -1915,7 +1938,7 @@ svg:not(:root) {
     -o-transition: all ease 500ms;
 }
 .conInfo h5 a:hover{
-    color: #8e44ad;
+    color: #E07A5F;
     text-decoration: none;
 }
 .conInfo h5.mails2{
@@ -2110,7 +2133,7 @@ svg:not(:root) {
     -o-transition: all ease 500ms;
 }
 .steps:hover .stepCount{
-    background: #8e44ad;
+    background: #E07A5F;
 }
 .stepCount span:first-child{
     font-size: 14px;
@@ -2341,7 +2364,7 @@ svg:not(:root) {
     padding-top: 75px;
 }
 .fearuedTable2 .pricingTable2{
-    border: 4px solid #8e44ad;
+    border: 4px solid #E07A5F;
 }
 
 
@@ -2385,7 +2408,7 @@ svg:not(:root) {
     margin-bottom: 15px;
 }
 .twitterItem p a{
-    color: #8e44ad;
+    color: #E07A5F;
     text-transform: capitalize;
     transition: all ease 500ms;
     -moz-transition: all ease 500ms;
@@ -2409,7 +2432,7 @@ svg:not(:root) {
     color: #FFF;
 }
 .twitterItem h5 a:hover{
-    color: #8e44ad;
+    color: #E07A5F;
     text-decoration: none;
 }
 .twitterItem span{
@@ -2459,7 +2482,7 @@ svg:not(:root) {
     -o-transition: all ease 500ms;
 }
 #twitter_carousel .carousel-control.right:hover:before{
-    border-color: #8e44ad;
+    border-color: #E07A5F;
 }
 #twitter_carousel .carousel-control.right::after {
     background: #fff none repeat scroll 0 0;
@@ -2479,7 +2502,7 @@ svg:not(:root) {
     -o-transition: all ease 500ms;
 }
 #twitter_carousel .carousel-control.right:hover:after{
-    background: #8e44ad;
+    background: #E07A5F;
 }
 #twitter_carousel .carousel-control.left::before {
     border-bottom: 1px solid #fff;
@@ -2500,7 +2523,7 @@ svg:not(:root) {
     -o-transition: all ease 500ms;
 }
 #twitter_carousel .carousel-control.left:hover:before{
-    border-color: #8e44ad;
+    border-color: #E07A5F;
 }
 #twitter_carousel .carousel-control.left::after {
     background: #fff none repeat scroll 0 0;
@@ -2520,7 +2543,7 @@ svg:not(:root) {
     -o-transition: all ease 500ms;
 }
 #twitter_carousel .carousel-control.left:hover:after{
-    background: #8e44ad;
+    background: #E07A5F;
 }
 
 
@@ -2571,7 +2594,7 @@ svg:not(:root) {
     -o-transition: all ease 500ms; 
 }
 .service_tab ul li a:hover, .service_tab ul li.active a{
-    background: #8e44ad;
+    background: #E07A5F;
     color: #FFF;
 }
 .service_tab ul li a:focus{
@@ -2593,7 +2616,7 @@ svg:not(:root) {
     height: 10px;
     border-style: solid;
     border-width: 10px 7.5px 0 7.5px;
-    border-color: #8e44ad transparent transparent transparent;
+    border-color: #E07A5F transparent transparent transparent;
     position: absolute;
     bottom: -10px;
     left: 0;
@@ -2621,7 +2644,7 @@ svg:not(:root) {
 }
 .tabPanelContent i{
     font-size: 60px;
-    color: #8e44ad;
+    color: #E07A5F;
     height: 60px;
     display: inline-block;
 }
@@ -2737,7 +2760,7 @@ svg:not(:root) {
 .singleTeam3:after{
     width: 50%;
     height: 4px;
-    background: #8e44ad;
+    background: #E07A5F;
     content: "";
     right: 0;
     bottom: -3px;
@@ -2846,7 +2869,7 @@ svg:not(:root) {
 
 
 .calToAction{
-    border-left: 4px solid #8e44ad;
+    border-left: 4px solid #E07A5F;
     padding: 29px 0 11px 30px;
 }
 .calToAction h5{
@@ -2953,7 +2976,7 @@ svg:not(:root) {
     position: relative;
 }
 .pricing3btn a:hover{
-    background: #8e44ad;
+    background: #E07A5F;
 }
 .pricing3btn a:after{
     width: 25px;
@@ -3011,7 +3034,7 @@ svg:not(:root) {
     margin: 0;
 }
 .singleFeature4 p i{
-    color: #8e44ad;
+    color: #E07A5F;
     font-size: 40px;
     height: 40px;
     left: 0;
@@ -3028,7 +3051,7 @@ svg:not(:root) {
     margin-bottom: 30px;
 }
 .singleFeature5 i{
-    background: #8e44ad none repeat scroll 0 0;
+    background: #F1A895 none repeat scroll 0 0;
     color: #fff;
     font-size: 31px;
     height: 70px;
@@ -3050,7 +3073,7 @@ svg:not(:root) {
     border-radius: 50%;
 }
 .singleFeature5 i::after {
-    border: 1px solid #8e44ad;
+    border: 1px solid #F1A895;
     content: "";
     height: 80px;
     left: -5px;
@@ -3068,7 +3091,7 @@ svg:not(:root) {
     border-radius: 50%;
 }
 .singleFeature5:hover i{
-    background: #222;
+    background: #C1644C;
     color: #FFF;
 }
 .singleFeature5.round:hover i{
@@ -3079,7 +3102,7 @@ svg:not(:root) {
     -o-transform: rotate(360deg);
 }
 .singleFeature5:hover i:after{
-    border-color: #222;
+    border-color: #C1644C;
 }
 .singleFeature5.sf5_right{
     padding-left: 0;
@@ -3148,7 +3171,7 @@ svg:not(:root) {
 .showcasNav ul li:after{
     width: 0%;
     height: 1px;
-    background: #8e44ad;
+    background: #E07A5F;
     position: absolute;
     left: 0;
     right: 0;
@@ -3164,7 +3187,7 @@ svg:not(:root) {
     -o-transition: all ease 500ms;
 }
 .showcasNav ul li:hover, .showcasNav ul li.active{
-    color: #8e44ad;
+    color: #E07A5F;
 }
 .showcasNav ul li:hover:after, .showcasNav ul li.active:after{
     width: 100%;
@@ -3212,7 +3235,7 @@ svg:not(:root) {
     visibility: visible;
 }
 #backToTop:hover{
-    background: #8e44ad;
+    background: #E07A5F;
 }
 
 
@@ -3268,7 +3291,7 @@ svg:not(:root) {
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: #8e44ad;
+    background-color: #E07A5F;
     animation: cssload-fold-thecube 2.76s infinite linear both;
     -o-animation: cssload-fold-thecube 2.76s infinite linear both;
     -ms-animation: cssload-fold-thecube 2.76s infinite linear both;
@@ -3426,7 +3449,7 @@ svg:not(:root) {
 .presets a{
     width: 50px;
     height: 50px;
-    background: #8e44ad;
+    background: #E07A5F;
     position: relative;
     display: block;
     right: -30px;
@@ -3464,7 +3487,7 @@ svg:not(:root) {
     visibility: visible;
 }
 .presets a.color1{
-    background: #8e44ad;
+    background: #E07A5F;
 }
 .presets a.color2{
     background: #2BA0C7;
