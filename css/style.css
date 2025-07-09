@@ -2078,10 +2078,6 @@ svg:not(:root) {
     margin-top: 20px;
 }
 
-
-.descriptions3{
-
-}
 .descriptions3 p{
     margin-bottom: 27px;
 }
@@ -3072,6 +3068,11 @@ svg:not(:root) {
     -webkit-transition: all ease 500ms;
     -ms-transition: all ease 500ms;
     -o-transition: all ease 500ms;
+}
+
+.idyTotemPole {
+    padding-top: 75px;
+    opacity: 0.8;
 }
 
 .bi-person-heart {
