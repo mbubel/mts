@@ -41,9 +41,9 @@
 2. Raleway [ Use for all Paragraph ]
 2. Crimson Text [ Use for all Special text ]
 
-Main Color: #E07A5F
+Main Color: #E0C36F
 Preset Colors:
-    1. #E07A5F
+    1. #E0C36F
     2. #2BA0C7
     6. #C0392B
     4. #F2CA27
@@ -140,7 +140,7 @@ Preset Colors:
 }
 .mainMenu ul li:hover:after, .mainMenu ul li.active:after, 
 .mainMenu ul li:hover:before, .mainMenu ul li.active:before{
-    background: #E07A5F
+    background: #E0C36F
 }
 .mainMenu ul li:last-child{
     margin-right: 0px;
@@ -160,7 +160,7 @@ Preset Colors:
     font-weight: 400;
 }
 .mainMenu ul li a:hover, .mainMenu ul li.active a{
-    color: #E07A5F;
+    color: #E0C36F;
 }
 
 
@@ -206,10 +206,10 @@ Preset Colors:
 }
 .commonHeader .mainMenu ul li:hover:after, .commonHeader .mainMenu ul li:hover:before, 
 .commonHeader .mainMenu ul li.active:after, .commonHeader .mainMenu ul li.active:before{
-    background: #E07A5F;
+    background: #E0C36F;
 }
 .commonHeader .mainMenu ul li a:hover, .commonHeader .mainMenu ul li.active a{
-    color: #E07A5F;
+    color: #E0C36F;
 }
 
 
@@ -486,13 +486,17 @@ Preset Colors:
     background: url(../images/bg/IdyMountain.jpg) no-repeat center center / cover;
     overflow: hidden;
 }
+.accent {
+    color: #E0C36F; /* Example accent color */
+}
+
 .b1desc6{
     width: 100%;
     position: relative;
     text-align: center;
 }
 .b1desc6 h1{
-    font-size: 40px;
+    font-size: 60px;
     font-weight: 300;
     color: #fff;
     line-height: .7;
@@ -504,7 +508,7 @@ Preset Colors:
 }
 .b1desc6 p{
     color: #fff;
-    font-size: 16px;
+    font-size: 24px;
     margin: 5px auto 23px;
     width: 60%;
 }
@@ -623,8 +627,8 @@ Preset Colors:
     opacity: .6;
 }
 .b1desc7 a#playVideo:hover{
-    border-color: #E07A5F;
-    color: #E07A5F;
+    border-color: #E0C36F;
+    color: #E0C36F;
 }
 .vide_con{
     width: 100%;
@@ -796,11 +800,11 @@ Preset Colors:
 .carouselBanner .carousel-control.left:hover:after, 
 .carouselBanner .carousel-control.right:hover:after 
 {
-    background: #E07A5F;
+    background: #E0C36F;
 }
 .carouselBanner .carousel-control.left:hover:before, 
 .carouselBanner .carousel-control.right:hover:before{
-    border-color: #E07A5F;
+    border-color: #E0C36F;
 }
 .carouselBanner .carousel-inner, .carouselBanner .item{
     height: 100%;
@@ -844,7 +848,7 @@ Preset Colors:
 .singleFeature2 h5 i{
     border-radius: 50%;
     bottom: 0;
-    color: #E07A5F;
+    color: #E0C36F;
     font-size: 29px;
     height: 30px;
     margin: auto 0;
@@ -935,7 +939,7 @@ Preset Colors:
     margin-top: 0px;
 }
 .textbox > i{
-    color: #E07A5F;
+    color: #E0C36F;
     display: inline-block;
     font-size: 40px;
     height: 40px;
@@ -1020,7 +1024,7 @@ Preset Colors:
     padding: 0;
 }
 .myAccordion .panel-title > a{
-    background: #E07A5F none repeat scroll 0 0;
+    background: #E0C36F none repeat scroll 0 0;
     color: #fff;
     display: block;
     font-size: 12px;
@@ -1101,7 +1105,7 @@ Preset Colors:
     width: 10px;
 }
 .myAccourdio2 .panel-title > a.collapsed span{
-    border-color: #E07A5F;
+    border-color: #E0C36F;
 }
 .myAccordion .panel-title > a.collapsed span:before{
     display: none;
@@ -1117,7 +1121,7 @@ Preset Colors:
     border-radius: 0;
 }
 .myAccordion .collapse.in{
-    border-bottom: 1px solid #E07A5F;
+    border-bottom: 1px solid #E0C36F;
 }
 .myAccordion .panel-default > .panel-heading + .panel-collapse > .panel-body {
     border: medium none;
@@ -1178,7 +1182,7 @@ Preset Colors:
     margin: 0 auto;
 }
 .skillBar2{
-    background: #E07A5F;
+    background: #E0C36F;
     height: 100%;
     position: absolute;
     top: 0;
@@ -1515,7 +1519,7 @@ Preset Colors:
     text-align: center;
 }
 .singleFacts i{
-    color: #E07A5F;
+    color: #E0C36F;
     display: inline-block;
     font-size: 50px;
     height: 50px;
@@ -1699,7 +1703,7 @@ svg:not(:root) {
     -o-transition: all ease 500ms;
 }
 .vidContent a:hover, .vidContent a.active{
-    color: #E07A5F;
+    color: #E0C36F;
 }
 #videoWrap1 {
     position: relative;
@@ -1717,7 +1721,7 @@ svg:not(:root) {
 }
 
 .downloadButton{
-    background: #E07A5F;
+    background: #E0C36F;
     width: 100%;
     text-align: center;
     line-height: .8;
@@ -1769,7 +1773,7 @@ svg:not(:root) {
     display: inline-block;
 }
 .downloadButton:hover{
-    background: #E07A5F;
+    background: #E0C36F;
 }
 
 .subscribeForm{
@@ -1819,8 +1823,8 @@ svg:not(:root) {
     -o-transition: all ease 500ms;
 }
 .sub_submit:hover{
-    color: #E07A5F;
-    border-color: #E07A5F;
+    color: #E0C36F;
+    border-color: #E0C36F;
 }
 .subscribeForm p{
     font-family: Crimson Text;
@@ -1901,8 +1905,8 @@ svg:not(:root) {
     padding: 0 25px;
 }
 .con_submit:hover{
-    color: #E07A5F;
-    border-color: #E07A5F;
+    color: #E0C36F;
+    border-color: #E0C36F;
 }
 
 .conInfo{
@@ -1913,7 +1917,7 @@ svg:not(:root) {
 }
 .conInfo i{
     font-size: 32px;
-    color: #E07A5F;
+    color: #E0C36F;
     height: 32px;
     margin-bottom: 29px;
     display: block;
@@ -1938,7 +1942,7 @@ svg:not(:root) {
     -o-transition: all ease 500ms;
 }
 .conInfo h5 a:hover{
-    color: #E07A5F;
+    color: #E0C36F;
     text-decoration: none;
 }
 .conInfo h5.mails2{
@@ -2133,7 +2137,7 @@ svg:not(:root) {
     -o-transition: all ease 500ms;
 }
 .steps:hover .stepCount{
-    background: #E07A5F;
+    background: #E0C36F;
 }
 .stepCount span:first-child{
     font-size: 14px;
@@ -2364,7 +2368,7 @@ svg:not(:root) {
     padding-top: 75px;
 }
 .fearuedTable2 .pricingTable2{
-    border: 4px solid #E07A5F;
+    border: 4px solid #E0C36F;
 }
 
 
@@ -2408,7 +2412,7 @@ svg:not(:root) {
     margin-bottom: 15px;
 }
 .twitterItem p a{
-    color: #E07A5F;
+    color: #E0C36F;
     text-transform: capitalize;
     transition: all ease 500ms;
     -moz-transition: all ease 500ms;
@@ -2432,7 +2436,7 @@ svg:not(:root) {
     color: #FFF;
 }
 .twitterItem h5 a:hover{
-    color: #E07A5F;
+    color: #E0C36F;
     text-decoration: none;
 }
 .twitterItem span{
@@ -2482,7 +2486,7 @@ svg:not(:root) {
     -o-transition: all ease 500ms;
 }
 #twitter_carousel .carousel-control.right:hover:before{
-    border-color: #E07A5F;
+    border-color: #E0C36F;
 }
 #twitter_carousel .carousel-control.right::after {
     background: #fff none repeat scroll 0 0;
@@ -2502,7 +2506,7 @@ svg:not(:root) {
     -o-transition: all ease 500ms;
 }
 #twitter_carousel .carousel-control.right:hover:after{
-    background: #E07A5F;
+    background: #E0C36F;
 }
 #twitter_carousel .carousel-control.left::before {
     border-bottom: 1px solid #fff;
@@ -2523,7 +2527,7 @@ svg:not(:root) {
     -o-transition: all ease 500ms;
 }
 #twitter_carousel .carousel-control.left:hover:before{
-    border-color: #E07A5F;
+    border-color: #E0C36F;
 }
 #twitter_carousel .carousel-control.left::after {
     background: #fff none repeat scroll 0 0;
@@ -2543,7 +2547,7 @@ svg:not(:root) {
     -o-transition: all ease 500ms;
 }
 #twitter_carousel .carousel-control.left:hover:after{
-    background: #E07A5F;
+    background: #E0C36F;
 }
 
 
@@ -2594,7 +2598,7 @@ svg:not(:root) {
     -o-transition: all ease 500ms; 
 }
 .service_tab ul li a:hover, .service_tab ul li.active a{
-    background: #E07A5F;
+    background: #E0C36F;
     color: #FFF;
 }
 .service_tab ul li a:focus{
@@ -2616,7 +2620,7 @@ svg:not(:root) {
     height: 10px;
     border-style: solid;
     border-width: 10px 7.5px 0 7.5px;
-    border-color: #E07A5F transparent transparent transparent;
+    border-color: #E0C36F transparent transparent transparent;
     position: absolute;
     bottom: -10px;
     left: 0;
@@ -2644,7 +2648,7 @@ svg:not(:root) {
 }
 .tabPanelContent i{
     font-size: 60px;
-    color: #E07A5F;
+    color: #E0C36F;
     height: 60px;
     display: inline-block;
 }
@@ -2760,7 +2764,7 @@ svg:not(:root) {
 .singleTeam3:after{
     width: 50%;
     height: 4px;
-    background: #E07A5F;
+    background: #E0C36F;
     content: "";
     right: 0;
     bottom: -3px;
@@ -2869,7 +2873,7 @@ svg:not(:root) {
 
 
 .calToAction{
-    border-left: 4px solid #E07A5F;
+    border-left: 4px solid #E0C36F;
     padding: 29px 0 11px 30px;
 }
 .calToAction h5{
@@ -2976,7 +2980,7 @@ svg:not(:root) {
     position: relative;
 }
 .pricing3btn a:hover{
-    background: #E07A5F;
+    background: #E0C36F;
 }
 .pricing3btn a:after{
     width: 25px;
@@ -3034,7 +3038,7 @@ svg:not(:root) {
     margin: 0;
 }
 .singleFeature4 p i{
-    color: #E07A5F;
+    color: #E0C36F;
     font-size: 40px;
     height: 40px;
     left: 0;
@@ -3057,7 +3061,7 @@ svg:not(:root) {
     height: 70px;
     left: 0;
     line-height: 0.8;
-    padding: 23px 0 18px;
+    padding: 18px;
     position: absolute;
     text-align: center;
     top: 6px;
@@ -3068,6 +3072,10 @@ svg:not(:root) {
     -webkit-transition: all ease 500ms;
     -ms-transition: all ease 500ms;
     -o-transition: all ease 500ms;
+}
+
+.bi-person-heart {
+    padding: 10px;
 }
 .singleFeature5.round i{
     border-radius: 50%;
@@ -3113,15 +3121,24 @@ svg:not(:root) {
     left: auto;
     right: 0;
 }
-.singleFeature5 h5{
-    font-size: 12px;
+.singleFeature5 h4{
+    font-size: 15px;
     font-weight: 400;
     letter-spacing: 0.25px;
     line-height: 0.8;
-    margin-bottom: 20px;
     margin-top: 0;
     position: relative;
     text-transform: uppercase;
+}
+.bi-headset {
+    padding-top: 20px !important;
+}
+.bi-chat-left-dots {
+    padding-top: 21px !important;
+    padding-left: 18px !important;
+}
+.bi-person-heart {
+    padding-left: 21px !important;
 }
 .singleFeature5 p{
     margin-bottom: 0px;
@@ -3171,7 +3188,7 @@ svg:not(:root) {
 .showcasNav ul li:after{
     width: 0%;
     height: 1px;
-    background: #E07A5F;
+    background: #E0C36F;
     position: absolute;
     left: 0;
     right: 0;
@@ -3187,7 +3204,7 @@ svg:not(:root) {
     -o-transition: all ease 500ms;
 }
 .showcasNav ul li:hover, .showcasNav ul li.active{
-    color: #E07A5F;
+    color: #E0C36F;
 }
 .showcasNav ul li:hover:after, .showcasNav ul li.active:after{
     width: 100%;
@@ -3235,7 +3252,7 @@ svg:not(:root) {
     visibility: visible;
 }
 #backToTop:hover{
-    background: #E07A5F;
+    background: #E0C36F;
 }
 
 
@@ -3291,7 +3308,7 @@ svg:not(:root) {
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: #E07A5F;
+    background-color: #E0C36F;
     animation: cssload-fold-thecube 2.76s infinite linear both;
     -o-animation: cssload-fold-thecube 2.76s infinite linear both;
     -ms-animation: cssload-fold-thecube 2.76s infinite linear both;
@@ -3449,7 +3466,7 @@ svg:not(:root) {
 .presets a{
     width: 50px;
     height: 50px;
-    background: #E07A5F;
+    background: #E0C36F;
     position: relative;
     display: block;
     right: -30px;
@@ -3487,7 +3504,7 @@ svg:not(:root) {
     visibility: visible;
 }
 .presets a.color1{
-    background: #E07A5F;
+    background: #E0C36F;
 }
 .presets a.color2{
     background: #2BA0C7;

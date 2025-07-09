@@ -41,9 +41,9 @@
 2. Raleway [ Use for all Paragraph ]
 2. Crimson Text [ Use for all Special text ]
 
-Main Color: #E07A5F
+Main Color: #E0C36F
 Preset Colors:
-    1. #E07A5F
+    1. #E0C36F
     2. #2BA0C7
     6. #C0392B
     4. #F2CA27
@@ -64,7 +64,7 @@ body, html{
     line-height: 26px;
 }
 a{
-    color: #E07A5F;
+    color: #E0C36F;
     transition: all ease 500ms;
     -moz-transition: all ease 500ms;
     -webkit-transition: all ease 500ms;
@@ -152,9 +152,9 @@ a.comm_btn:hover span {
   width: 562.5px;
 }
 .apBtnDefault{
-    border: 2px solid #E07A5F;
+    border: 2px solid #E0C36F;
     border-radius: 22px;
-    color: #E07A5F;
+    color: #E0C36F;
     display: inline-block;
     font-size: 13px;
     font-weight: 700;
@@ -174,7 +174,7 @@ a.comm_btn:hover span {
 }
 
 .apBtnDefault span{
-    background: #E07A5F none repeat scroll 0 0;
+    background: #E0C36F none repeat scroll 0 0;
     border-radius: 50%;
     display: block;
     height: 0;
@@ -232,7 +232,7 @@ a.apBtnDefault:hover span {
     margin-left: 5px;
 }
 .comonLInk:hover{
-    color: #E07A5F;
+    color: #E0C36F;
     text-decoration: none;
 }
 
@@ -277,8 +277,7 @@ a.apBtnDefault:hover span {
     margin:  0 auto 23px;
     font-size: 14pt;
     line-height: 35px;
-    font-family: Crimson Text;
-    font-style: italic;
+    font-family: 'Raleway', sans-serif;
 }
 .stBar{
     width: 100px;
@@ -290,7 +289,7 @@ a.apBtnDefault:hover span {
     margin: 0;
 }
 .stBar:after{
-    background-color: #E07A5F;
+    background-color: #E0C36F;
     height: 1px;
     width: 30px;
     position: absolute;
@@ -301,7 +300,7 @@ a.apBtnDefault:hover span {
     content: "";
 }
 .stBar:before{
-    background-color: #E07A5F;
+    background-color: #E0C36F;
     height: 1px;
     width: 30px;
     position: absolute;
@@ -315,7 +314,7 @@ a.apBtnDefault:hover span {
     width: 10px;
     height: 10px;
     display: inline-block;
-    background: #E07A5F;
+    background: #E0C36F;
     transform: rotate(45deg);
     -moz-transform: rotate(45deg);
     -webkit-transform: rotate(45deg);
@@ -359,7 +358,7 @@ ul.ulitem li{
     content: "\f1b8";
     font-family: FontAwesome;
     font-size: 14px;
-    color: #E07A5F;
+    color: #E0C36F;
     position: absolute;
     left: 0;
 }
